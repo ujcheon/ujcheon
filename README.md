@@ -3,7 +3,7 @@
 ## Hi. I'm YuJeong.
 
 ### About Me
-- **Currently pursuing an MPH in the field of Genetic Epidemiology**
+- **Currently pursuing a PhD in the field of Genetic Epidemiology**
 - **Location**: Seoul, Korea
 - **Profile Views**
 
