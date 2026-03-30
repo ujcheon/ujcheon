@@ -5,9 +5,9 @@
 ### About Me
 - **Currently pursuing an MPH in the field of Genetic Epidemiology**
 - **Location**: Seoul, Korea
-- **Hits**
+- **Profile Views**
 
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fujcheon%2F&count_bg=%230073FF&title_bg=%23191717&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+    ![Profile Views](https://komarev.com/ghpvc/?username=ujcheon&color=0073FF&style=flat-square)
 
 
 ### Skills
@@ -28,11 +28,14 @@
 
 
 ### Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujcheon&layout=compact&theme=github_dark&hide_progress=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujcheon&theme=github_dark)
+![Most Used](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujcheon&theme=github_dark)
 
 
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujcheon&rank_icon=github&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ujcheon&theme=github-dark-blue)](https://github.com/ujcheon)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujcheon&theme=github_dark)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=&fontSize=30&fontColor=d6ace6&color=0:81e8e5,100:204ad8&animation=fadeIn)
